@@ -1,2 +1,3 @@
 This is sample file. 
 This line added through Git Bash to check force push.
+This is additional text added through Git Hub to test Force(-f) push flag in Git.
