@@ -1,2 +1,2 @@
 This is sample file. 
-This is additional text added through Git Hub.
+This is additional text added through Git Hub to test Force(-f) push flag in Git.
